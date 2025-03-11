@@ -6,8 +6,8 @@ from openai import AsyncOpenAI
 import json
 import os
 
-BOT_TOKEN = "7292539272:AAGAZOvAGkKigY7M6trh09wUBclq-_7JbBs"
-BOT_USERNAME = "@Zhangvv_bot"
+BOT_TOKEN = ""
+BOT_USERNAME = ""
 #设置
 
 url = "https://api.siliconflow.cn/v1/chat/completions"
